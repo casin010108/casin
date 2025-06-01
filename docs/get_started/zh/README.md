@@ -6,7 +6,7 @@ date: 2022-08-1
 ---
 
 
-官网: [teedoc.neucrack.com](https://teedoc.neucrack.com/) 或 [teedoc.github.io](https://teedoc.github.io/)
+对吧对吧对吧对吧对吧
 本文档源文件: [github.com/teedoc/teedoc.github.io](https://github.com/teedoc/teedoc.github.io)
 源码: [https://github.com/teedoc/teedoc](https://github.com/teedoc/teedoc) 如果你喜欢这个项目，请务必登录 [github](https://github.com/teedoc/teedoc) 给项目点个 **star**
 

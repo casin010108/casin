@@ -1,6 +1,6 @@
 {
-    "site_name": "teedoc",
-    "site_slogon": "happy to write",
+    "site_name": "目录",
+    "site_slogon": "页数",
     "site_root_url": "/",
     "site_domain": "teedoc.neucrack.com",
     "site_protocol": "https",
@@ -21,6 +21,9 @@
         },
         "blog": {
             "/blog/": "blog"
+        },
+        "blog1": {
+            "/blogcopy/": "blogcopy"
         }
     },
     "translate": {

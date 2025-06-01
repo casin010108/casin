@@ -1,10 +1,10 @@
 {
     "locale": "zh_CN",
     "navbar": {
-        "title": "teedoc",
+        "title": "RED",
         "logo": {
             "alt": "teedoc logo",
-            "src": "/static/image/logo.png"
+            "src": "/static/image/image.png"
         },
         "home_url": "/",
         "items": [
@@ -20,7 +20,12 @@
             },
             {
                 "url": "/blog/",
-                "label": "博客",
+                "label": "读者",
+                "position": "left"
+            }, 
+            {
+                "url": "/blogcopy/",
+                "label": "看客",
                 "position": "left"
             },
             {
